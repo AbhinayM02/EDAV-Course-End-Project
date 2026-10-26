@@ -1,0 +1,12 @@
+Course Name,Course Code,Credits,Type,Faculty Name,Faculty Email
+"DC Circuits, Sensors and Transducers",22ECC40,3,Theory,"Dr. D. Naga Devi",dnagadevi_ece@cbit.ac.in
+"Digital Logic and Computer Architecture",22ITC01N,3,Theory,"Mrs. E. Ramalakshmi",eramalaskhmi_it@cbit.ac.in
+"Exploratory Data Analysis and Visualization",22ADC31N,2,Theory,"Mr. G. Srikanth",srikanthg_it@cbit.ac.in
+"Discrete Mathematics",22ITC05N,3,Theory,"Mrs. Palamakula Swathi",swathip_it@cbit.ac.in
+"Java Programming",22ITC02N,3,Theory,"Mrs. K. Swathi",kswathi_it@cbit.ac.in
+"Design and Analysis of Algorithms",22CSC14N,3,Theory,"Mr. N. Shiva Kumar",shivakumarn_it@cbit.ac.in
+"Indian Constitution and Fundamental Principles",22EGM01,0,Theory,"Mr. Vare Laxman",varelaxman_english@cbit.ac.in
+"Java Programming Lab",22ITC03N,1.5,Lab,"Mrs. K. Swathi",kswathi_it@cbit.ac.in
+"Algorithms and Competitive Programming Lab",22ITC06N,1.5,Lab,"Mr. N. Shiva Kumar",shivakumarn_it@cbit.ac.in
+"Exploratory Data Analysis and Visualization Lab",22ADC32N,1,Lab,"Mr. G. Srikanth",srikanthg_it@cbit.ac.in
+"Moocs/Training/Internship - I",22IT101,2,Practical,"",
